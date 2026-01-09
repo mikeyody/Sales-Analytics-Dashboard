@@ -1,7 +1,3 @@
-# Sales-Analytics-Dashboard
-Interactive Power BI dashboard analyzing sales performance using SQL data
-
-
 # Sales Analytics Dashboard (Power BI)
 
 ## Overview
